@@ -32,3 +32,4 @@ Install in development mode then run `pytest`
 
 - Add event hooks
 - Add flask unit tests
+- Write an overview of the application code
