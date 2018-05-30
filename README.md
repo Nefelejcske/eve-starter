@@ -1,6 +1,10 @@
 # eve-starter
 
-## Installation
+## Requirements
+- Python 3.6
+- [Docker](https://www.docker.com/) # Optional, but recommended
+
+## Installation (Required if running tests or running without Docker)
 
 - Init virtualenv (optional)  `python -m virtualenv env`
 - Activate your virtualenv
