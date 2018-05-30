@@ -1,5 +1,3 @@
-#  from awesomeio.domains.domain_base import DOMAINS
-#  from awesomeio import domains
 from pathlib import Path
 from importlib import import_module
 import os
