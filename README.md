@@ -6,5 +6,7 @@
 - Activate your virtualenv
   - `env\Script\activate` (Windows)
   - `source env/bin/activate` (Linux)
-  
-- Install dependencies `pip install .`
+
+- Install application
+    -  Release: `pip install .`
+    -  Developmetn: `pip install -e .[dev]`
