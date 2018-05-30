@@ -5,7 +5,7 @@ from awesomeio.domains import domain
 class Funnies(object):
     name = "funnies"
     domain = {
-        'item_title': 'solution',
+        'item_title': 'funny',
         'cache_control': '',
         'cache_expires': 0,
         'public_methods': ['POST'],
